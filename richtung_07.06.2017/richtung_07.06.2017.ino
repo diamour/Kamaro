@@ -28,7 +28,7 @@ uint32_t Pixel_Color[TOTAL_PIXELNUMBER];
 
 
 //**************************************************************************************//
-//Function for clearing all the pixel
+//Function for clearing all the pixels
 //**************************************************************************************//
 void clear(void)
 {
